@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! Welcome to my github profile!<br><br>💡 I'm Artsyom. I'm Advanced Software Engineer with a demonstrated history of working in the information technology industry. Invloved in an agile software<br>development environment which utilized the Scrum process. A sociable, industrious and responsible team player. <br><br>📚 I continue to study new information and technologies, develop my professional skills.<br><br>⚡ I begun my journey at the age of 19<br>⚡ Relocated from Belarus to Poland, Gdańsk<br>⚡ I have an unfinished Bachelor's degree in Computer Software Engineering from BNTU
+Hello! Welcome to my github profile!<br><br>💡 I'm Artsyom. I'm Advanced Software Engineer with a demonstrated history of working in the information technology industry. Invloved in an agile software development environment which utilized the Scrum process. A sociable, industrious and responsible team player <br><br>📚 I continue to study new information and technologies, develop my professional skills<br><br>⚡ I begun my journey at the age of 19<br>⚡ Relocated from Belarus to Poland, Gdańsk<br>⚡ I have an unfinished Bachelor's degree in Computer Software Engineering from BNTU
 
 
 ## 🌐 Socials:
